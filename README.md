@@ -14,7 +14,7 @@
 <h3>Web 3.0 Related :</h3>
 
 
-[What is Blockchain & How does it works?](./WEB%203.0/what-is-blockchain.md)  
+ - [What is Blockchain & How does it works?](./WEB%203.0/what-is-blockchain.md)  
 
 
 <h3> Web Development Related :</h3>
